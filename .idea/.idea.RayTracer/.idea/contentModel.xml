@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_RayTracer.1675099284.00" t="ExcludeRecursive" />
+    <e p="H:\Work\Demo\RayTracer" t="IncludeFlat">
+      <e p="RayTracer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
